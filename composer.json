@@ -1,10 +1,14 @@
 {
   "name": "leahkonma/328/week5",
-  "description": "MVC Week5",
+  "description": "Practice Templating",
   "authors": [
     {
       "name": "Leah Konma",
       "email": "leahkonma02@gmail.com"
+    },
+    {
+      "name": "Sage Bain",
+      "email": "bain.sage@student.greenriver.edu"
     }
   ],
   "require": {
